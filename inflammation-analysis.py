@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Software for managing and analysing patients' inflammation data in our imaginary hospital."""
+numpy==1.25.0
 
 import argparse
 
